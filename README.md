@@ -14,6 +14,6 @@ This part is mainly cleaning the data so that we have the data of the control gr
 ### Part2: AB Testing(Hypotyhesis test)
 This part of the project uses a hypothesis test where the null hypothesis is that the convergence of the old page is greater than or equal the new page and the alternative hypothesis is that the new page have a higher than the old one.
 ### Part3: regression
-This final part is predicting whether a vister will oonverge or not using regression.
+This final part is predicting whether a vister will converge or not using regression.
 
 
